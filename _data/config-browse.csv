@@ -3,3 +3,5 @@ date,Date,
 creator,Creator,
 subject,,true
 location,,true
+format original,,,true
+identifier,,,true
