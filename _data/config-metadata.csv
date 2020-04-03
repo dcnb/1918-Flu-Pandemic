@@ -5,7 +5,7 @@ date,Date Created,
 date is approximate?,Date Is Approximate?
 description,Description,
 subject,Subjects,true
-location,Location
+location,Location,
 source,Source
 identifier,Source Identifier
 type,Type,
