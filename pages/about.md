@@ -1,8 +1,7 @@
 ---
 title: About
+permalink: "/about.html"
 layout: page
-permalink: /about.html
-# Edit the markdown on in this file to describe your collection
 ---
 
 {% include about/jumbotron.html %}
